@@ -2,7 +2,7 @@
 
 A little about me...
 
-👨‍💻 I’m currently a [YOUR PROFESSION HERE] student at [YOUR UNIVERSITY HERE].
+👨‍💻 I’m currently a Computer Engineer student at PUC-Campinas.
 
 🚀 I’m proactive and highly engaged, always striving to create innovative solutions that deliver positive impact and improve processes.
 
