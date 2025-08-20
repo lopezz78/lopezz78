@@ -1,12 +1,12 @@
-👋 Hi there! I'm [YOUR NAME HERE]
+👋 Hi there! I'm Arthur
 
 A little about me...
 
-👨‍💻 I’m currently a Computer Engineer student at PUC-Campinas.
+👨‍💻 I’m currently a Computer Engineering student at Pontifical Catholic University of Campinas (PUC-Campinas).
 
 🚀 I’m proactive and highly engaged, always striving to create innovative solutions that deliver positive impact and improve processes.
 
-💻 My passions include [YOUR HOBBIES HERE].
+💻 My passions include music, playing drums and sports.
 
 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
