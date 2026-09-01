@@ -1,12 +1,10 @@
 👋 Hi there! I'm Arthur
 
-A little about me...
-
 👨‍💻 I’m currently a Computer Engineering student at Pontifical Catholic University of Campinas (PUC-Campinas).
 
 🚀 I’m proactive and highly engaged, always striving to create innovative solutions that deliver positive impact and improve processes.
 
-💻 My passions include music, playing drums and sports.
+💻 My passions include snooker, playing drums and soccer.
 
 🎓 I’m constantly seeking new knowledge and sharpening my skills to stay ahead in technology and innovation.
 
@@ -34,4 +32,4 @@ Other: [YOUR OTHER SKILLS/INTERESTS HERE]
 
 📬 Contact Me:
 
-<div align="center"> <a href="[YOUR LINKEDIN URL HERE]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="[YOUR INSTAGRAM URL HERE]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:[YOUR GMAIL HERE]"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://api.whatsapp.com/send?phone=[YOUR PHONE NUMBER HERE]" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="[YOUR ALURA URL HERE]" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/arthur-lopez-71857b377/?locale=en-US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="[YOUR INSTAGRAM URL HERE]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:[YOUR GMAIL HERE]"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://api.whatsapp.com/send?phone=[YOUR PHONE NUMBER HERE]" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="[YOUR ALURA URL HERE]" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a> </div>
